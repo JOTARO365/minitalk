@@ -1,0 +1,3 @@
+# 42 projects are built & graded on Linux — keep LF line endings everywhere.
+* text=auto eol=lf
+*.pdf binary

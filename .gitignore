@@ -1,0 +1,12 @@
+# Object files & libraries
+*.o
+*.a
+
+# Binaries
+server
+client
+
+# Editor / OS junk
+*.swp
+*~
+.DS_Store
